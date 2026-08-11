@@ -1,5 +1,7 @@
 # songR
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21889964.svg)](https://doi.org/10.5281/zenodo.21889964)
+
 ## Overview
 
 **songR** is a SONG-inspired dimensionality-reduction tool for R. It

@@ -1,12 +1,12 @@
 pandoc: 3.8.3
-pkgdown: 2.2.0
+pkgdown: 2.2.1
 pkgdown_sha: ~
 articles:
   introduction: introduction.html
   articles/reproducing_paper_figures: reproducing_paper_figures.html
   songR_quickstart: songR_quickstart.html
   articles/songR_shiny_app: songR_shiny_app.html
-last_built: 2026-06-24T09:27Z
+last_built: 2026-08-11T15:03Z
 urls:
   reference: https://cttir.github.io/songR/reference
   article: https://cttir.github.io/songR/articles
